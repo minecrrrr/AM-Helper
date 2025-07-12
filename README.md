@@ -1,4 +1,6 @@
-**(RU) AM Helper** — умный помощник для сервера **AresMine** в Minecraft, созданный под **LiquidBounce**. Автоматически активирует свитки одним нажатием привязанных клавиш, экономя ваше время в бою.
+## (RU) AM Helper
+
+**AM Helper** — умный помощник для сервера **AresMine** в Minecraft, созданный под **LiquidBounce**. Автоматически активирует свитки одним нажатием привязанных клавиш, экономя ваше время в бою.
 
 🔹 **Мгновенная активация** – использует свитки без открытия инвентаря
 🔹 **Гибкая настройка** – привязка любых свитков к клавишам
@@ -8,7 +10,9 @@
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
-**(EN) AM Helper** — smart utility for **AresMine** Minecraft server, built for **LiquidBounce**. Instantly activates scrolls with single keypresses, saving your time during battles.
+## (EN) AM Helper
+
+**AM Helper** — smart utility for **AresMine** Minecraft server, built for **LiquidBounce**. Instantly activates scrolls with single keypresses, saving your time during battles.
 
 🔹 **Instant activation** – use scrolls without opening inventory
 🔹 **Custom keybinds** – assign any scroll to any key

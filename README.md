@@ -1,3 +1,6 @@
+## Helper is being created, wait for the first version
+## Хелпер создается, ожидайте первую версию
+
 ## (RU) AM Helper
 
 **AM Helper** — умный помощник для сервера **AresMine** в Minecraft, созданный под **LiquidBounce**. Автоматически активирует свитки одним нажатием привязанных клавиш, экономя ваше время в бою.
